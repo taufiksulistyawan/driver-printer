@@ -10,9 +10,8 @@ Pada repositori ini, tersedia informasi terkait:
 - Troubleshooting umum
 
 ## 🔗 Download Driver
-- [Driver Printer Canon MF3010 (Windows)](https://id.canon/id/support/0100457801)  
-- [Driver Scanner Canon MF3010 (Windows)](https://id.canon/id/support/0100457802)  
-- [Driver untuk macOS & Linux](https://id.canon/id/support)
+- [Driver Printer Canon MF3010 (Windows)](https://in.canon/en/support/0100367301)  
+- [Driver Scanner Canon MF3010 (Windows)](https://en.canon-cna.com/support/consumer/products/printers/i-sensys/mf-series/i-sensys-mf3010.html?type=drivers&os=Windows%2010%20(64-bit))  
 
 > Pastikan menyesuaikan driver dengan sistem operasi yang digunakan.
 
